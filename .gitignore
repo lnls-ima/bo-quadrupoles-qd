@@ -4,6 +4,7 @@
 *_ignore.*
 temp/
 *.pxp
+*.stp
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
