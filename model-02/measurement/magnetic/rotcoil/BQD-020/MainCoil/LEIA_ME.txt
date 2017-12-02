@@ -1,0 +1,8 @@
+========================== OBSERVAÇÕES ==========================
+
+- Na pasta "Medida 1" foi realizada apenas a curva bipolar de desmagnetização.
+
+- Na pasta "Medida 2" e "Medida 3" foi realizada apenas a curva bipolar de desmagnetização 
+e colocado um ímã (BQF) em série com o BQD para fazer testes com a fonte de alimentação na ciclagem monopolar.
+
+- Na pasta "Medida 4" e "Medida 5" foram realizadas as ciclagens Bipolar e Monopolar sem o ímã BQF em série.
