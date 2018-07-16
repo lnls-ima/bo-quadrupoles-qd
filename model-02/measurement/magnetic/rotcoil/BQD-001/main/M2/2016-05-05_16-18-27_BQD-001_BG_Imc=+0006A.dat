@@ -4,7 +4,7 @@
 file                           	D:\ARQ\Work_at_LNLS\Repositorio SVN\Magnets\Magnetic Measurements\Booster Magnets\Quadrupoles\BQD\BQD-001\Medida 2\BQD001_Q_BOB_+0006A_160505_161827.dat
 date                           	05/05/2016
 hour                           	16:18:27
-temperature(ºC)             	24.1
+temperature(C)             	24.1
 integrator_gain                	100
 nr_integration_points          	144
 velocity(rps)                	1.0
